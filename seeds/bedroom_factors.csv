@@ -1,0 +1,4 @@
+bedrooms,label,factor
+1,1 bedroom,1.10
+2,2 bedrooms,1.00
+3,3 bedrooms,0.92

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+*.tmp
+# raw API landing zone is reproducible from the pipeline
+data/raw/

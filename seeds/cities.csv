@@ -1,0 +1,18 @@
+city,country,country_code,currency,anchor_year,anchor_local_per_m2
+Amsterdam,Netherlands,NL,EUR,2025,7000
+Berlin,Germany,DE,EUR,2025,5300
+Brussels,Belgium,BE,EUR,2025,3700
+Canberra,Australia,AU,AUD,2025,7500
+Copenhagen,Denmark,DK,DKK,2025,55000
+Dublin,Ireland,IE,EUR,2025,5500
+Jerusalem,Israel,IL,ILS,2025,36000
+Lisbon,Portugal,PT,EUR,2025,5600
+London,United Kingdom,GB,GBP,2025,6800
+Madrid,Spain,ES,EUR,2025,5000
+Ottawa,Canada,CA,CAD,2025,5400
+Paris,France,FR,EUR,2025,9500
+Rome,Italy,IT,EUR,2025,3300
+Stockholm,Sweden,SE,SEK,2025,95000
+Tokyo,Japan,JP,JPY,2025,1200000
+Vienna,Austria,AT,EUR,2025,5800
+Washington DC,United States,US,USD,2025,6400
